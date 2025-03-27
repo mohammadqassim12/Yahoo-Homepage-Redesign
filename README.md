@@ -1,6 +1,6 @@
 # Yahoo Homepage Redesign — Usability Evaluation Report
 
-![Prototype]([https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539&starting-point-node-id=11%3A2539&mode=design&t=EZ8EYP3sdzRnw3ZE-1](https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539&starting-point-node-id=11:2539&t=EZ8EYP3sdzRnw3ZE-1))
+[Prototype]([https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539&starting-point-node-id=11%3A2539&mode=design&t=EZ8EYP3sdzRnw3ZE-1](https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539&starting-point-node-id=11:2539&t=EZ8EYP3sdzRnw3ZE-1))
 
 ## 📄 Project Overview
 This project was completed as part of the **Human-Computer Interaction (CSCC10H3)** course at the University of Toronto Scarborough. The goal was to critically assess and redesign the Yahoo homepage through a **user-centered design** process.
