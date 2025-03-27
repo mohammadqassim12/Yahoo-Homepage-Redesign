@@ -47,7 +47,7 @@ This repository contains a detailed PDF report covering all four phases of the H
 ---
 
 ## 👨‍💻 Contributors
-- Mohammad Qassim (@qassim3)
+- Mohammad Al-Qasem
 - Elena Manneh
 - Francis Ayyad
 - Arina Azmi
