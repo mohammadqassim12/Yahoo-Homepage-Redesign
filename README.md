@@ -1,52 +1,68 @@
-# Yahoo Homepage Redesign — Usability Evaluation Report
-## 📄 Project Overview
-This project was completed as part of the **Human-Computer Interaction (CSCC10H3)** course at the University of Toronto Scarborough. The goal was to critically assess and redesign the Yahoo homepage through a **user-centered design** process.
+# Yahoo Homepage Redesign
+
+> User-centered redesign of Yahoo's homepage for usability, accessibility, and personalization. High-fidelity Figma prototype validated through a focus-group study (n=7) against Nielsen's 10 heuristics.
 
 ---
 
-## 🧠 What’s Inside
+## Overview
 
-This repository contains a detailed PDF report covering all four phases of the HCI design cycle:
+Course project for **CSCC10H3 — Human-Computer Interaction** at the University of Toronto Scarborough. The brief: choose a real-world product with usability problems, run the full user-centered design cycle, and deliver a validated prototype.
 
-### 📌 Phase 1: Project Proposal
-- Identified Yahoo's outdated interface as the subject for redesign
-- Outlined major UX issues and set project goals
+We picked Yahoo's homepage because it embodies three issues we wanted to design around:
 
-### 👥 Phase 2: Gathering User Requirements
-- Created **user personas**, **scenarios**, and **hierarchical task analyses**
-- Conducted **surveys (166 responses)** and **semi-structured interviews**
-- Collected both quantitative and qualitative insights to guide the redesign
-
-### 🧪 Phase 3: Prototype Design
-- Built a **high-fidelity prototype** using [Figma](https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539)
-- Added new features:
-  - Accessibility splash screen
-  - Customizable widgets
-  - AI-powered search assistant
-- Focused on improving usability, accessibility, and personalization
-
-### 🧾 Phase 4: Usability Evaluation
-- Conducted a **focus group usability test** with 7 participants (ages 16–55)
-- Evaluated design against **Nielsen's 10 Heuristics**
-- Collected extensive feedback and documented design limitations & future directions
+1. **Visual clutter** — too many widgets, no hierarchy
+2. **Accessibility gaps** — no easy entry into screen-reader friendliness, contrast options, etc.
+3. **Zero personalization** — every visitor sees the same page
 
 ---
 
-## 📎 Files
-- `Phase IV Usability Evaluation Report.pdf` – Full project write-up with literature review, methodology, results, and design insights
-- [🔗 Figma Prototype Link](https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539)
+## Process
+
+### Phase 1 — Project proposal
+Identified Yahoo's interface as the redesign target; framed UX issues; set goals for the cycle.
+
+### Phase 2 — User research
+- **Survey** with 166 responses to quantify the issues
+- **Semi-structured interviews** to surface qualitative pain points
+- **User personas** + **scenarios** + a **hierarchical task analysis** to anchor design decisions
+
+### Phase 3 — Prototype design
+Low-fidelity wireframes evolved into a high-fidelity **Figma prototype** with three new flows:
+
+1. **Accessibility splash screen** on first launch — text size, contrast, voice, screen-reader toggles
+2. **Customizable widgets** on the home grid — pin, hide, reorder
+3. **AI-powered search assistant** — composes Yahoo Mail drafts from a single prompt
+
+### Phase 4 — Usability evaluation
+- **Focus group** (7 participants, ages 16–55)
+- Evaluated against **Nielsen's 10 heuristics**
+- Documented findings, design limitations, and future work
 
 ---
 
-## 🚀 Key Takeaways
-- Focused on inclusive design and real user needs
-- Implemented accessibility features like screen reader support and visual adjustments
-- Users praised the widget system and overall navigation clarity
-- Feedback emphasized need for clearer toggle states and in-app documentation
+## Files
+
+- [`Phase IV Usability Evaluation Report.pdf`](./Phase%20IV%20Usability%20Evaluation%20Report.pdf) — full write-up: literature review, methodology, results
+- [Figma prototype](https://www.figma.com/proto/DEPcmM4GFcxdBYPzVlxSwK/Yahoo-New-Design?node-id=11-2539)
 
 ---
 
-## 👨‍💻 Contributors
+## Key takeaways
+
+- Inclusive design earns time investment up front (the splash screen) but pays off across every subsequent session
+- Users praised the widget customization and overall navigation clarity
+- Strongest feedback gap: clearer toggle states and in-app documentation; both went on the future-work list
+
+---
+
+## Course context
+
+UTSC **CSCC10H3 — Human-Computer Interaction**, 2024.
+
+---
+
+## Contributors
+
 - Mohammad Al-Qasem
 - Elena Manneh
 - Francis Ayyad
@@ -57,5 +73,6 @@ This repository contains a detailed PDF report covering all four phases of the H
 
 ---
 
-## 📬 Contact
-For more details, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammadqasemm/).
+## Contact
+
+LinkedIn: [in/mohammadqasemm](https://www.linkedin.com/in/mohammadqasemm/)
